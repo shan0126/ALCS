@@ -1,4 +1,6 @@
 > ## ALCS
+>
+> This is the code for "Learning Reward Structure with Subtasks in Reinforcement Learning", which is accepted in ECAI 2024.
 > 
 > Requeirment
 > 1.   python==3.7.0
