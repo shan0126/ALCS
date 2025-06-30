@@ -37,7 +37,7 @@
 > 
 
 
->     Please cite this work if you use our code:
+> Please cite this work if you use our code:
 
 >     @incollection{han2024learning,
 >       title={Learning Reward Structure with Subtasks in Reinforcement Learning},
