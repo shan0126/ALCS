@@ -1,4 +1,4 @@
-> ## ALCS
+> ## The code for Automatically Learning to Compose Subtasks(ALCS), which has been accepted by ECAI 2024.
 > 
 > Requeirment
 > 1.   python==3.7.0
@@ -37,5 +37,15 @@
 > 
 
 
+>     Please cite this work if you use our code:
+
+>     @incollection{han2024learning,
+>       title={Learning Reward Structure with Subtasks in Reinforcement Learning},
+>       author={Han, Shuai and Dastani, Mehdi and Wang, Shihan},
+>       booktitle={ECAI 2024},
+>       pages={2282--2289},
+>       year={2024},
+>       publisher={IOS Press}
+>     }
 
 
